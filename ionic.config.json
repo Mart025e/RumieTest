@@ -1,0 +1,8 @@
+{
+  "name": "RumieTest",
+  "app_id": "439fdd72",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
